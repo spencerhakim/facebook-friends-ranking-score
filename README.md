@@ -10,11 +10,10 @@ Find your Facebook Friends Ranking Score http://arjunsreedharan.org/post/6597995
 
 ###How To##
 The following link executes this JS code.
-* Bookmark this
-[link](javascript:(function(){ document.body.appendChild(document.createElement('script')).src='http://spencerhakim.github.io/facebook-friends-ranking-score/src/fb-friends-ranking-score.js?x='+new Date().getTime(); })();)
+* Bookmark this <a href="javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://spencerhakim.github.io/facebook-friends-ranking-score/src/fb-friends-ranking-score.js?x='+new Date().getTime();})();">link</a>
 or you can create your own bookmark and set its link to:
 ```
-javascript:(function(){ document.body.appendChild(document.createElement('script')).src='http://spencerhakim.github.io/facebook-friends-ranking-score/src/fb-friends-ranking-score.js?x='+new Date().getTime(); })();
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://spencerhakim.github.io/facebook-friends-ranking-score/src/fb-friends-ranking-score.js?x='+new Date().getTime();})();
 ```
 
 * Login to your [Facebook homepage](facebook.com) and click on the bookmark.
